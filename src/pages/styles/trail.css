@@ -1,0 +1,57 @@
+/* .main{
+    position: relative;
+    height: 85px;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,0.2);
+}
+.logo{
+    position: absolute;
+    left: 0;
+}
+.list{
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+
+
+
+h1{
+    margin-top: 15px;
+    margin-left: 15px;
+    color: black;
+} */
+
+/* ----------------------------------------------------new --------- */
+
+.nav{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    box-shadow: 0 0 8px 0 red ;
+}
+.template{
+    position: absolute;
+    top: 1.5rem;
+    right: 3rem;
+    align-items: center;
+}
+
+
+.template .p-button.discord {
+    background: linear-gradient(
+      to left,
+      var(--bluegray-700) 50%,
+      var(--bluegray-800) 50%
+    );
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.5s ease-out;
+    color: #fff;
+    border-color: var(--bluegray-800);
+}
+.template .p-button.discord:hover {
+    background-position: left bottom;
+}
+
+
+  

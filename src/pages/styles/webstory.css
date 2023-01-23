@@ -1,0 +1,87 @@
+.p-card-title {
+    color: white;
+}
+
+
+.h5 {
+  margin: 1.5rem 0 1rem 0;
+  font-family: inherit;
+  font-weight: 600;
+  line-height: 1.2;
+  color: inherit;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+p {
+  line-height: 1.5;
+  margin: 0 0 1rem 0;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
+
+img.flag {
+  width: 30px;
+}
+
+
+.h5 {
+  margin: 1.5rem 0 1rem 0;
+  font-family: inherit;
+  font-weight: 600;
+  line-height: 1.2;
+  color: inherit;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+p {
+  line-height: 1.5;
+  margin: 0 0 1rem 0;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
+
+img.flag {
+  width: 30px;
+}
+
+
+
+.p-card-body{
+    padding: 0;
+}
+
+h5 {
+    margin: 1.5rem 0 1rem 0;
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.2;
+    color: inherit;
+  }
+  
+  h5 {
+    font-size: 1.25rem;
+  }
+  
+  p {
+    line-height: 1.5;
+    margin: 0 0 1rem 0;
+  }
+  
+  .card {
+    margin-bottom: 2rem;
+  }
+  
+  img.flag {
+    width: 30px;
+  }
+  
